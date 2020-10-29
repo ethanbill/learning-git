@@ -5,3 +5,4 @@ Commands
 git add . -- adds all changed files to the staging area
 git commit -m -- commits with a given message
 git add. -- ethan is a boy
+git commit -m -- what is up always comes done but goes back

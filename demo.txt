@@ -3,3 +3,4 @@ This is a demo file
 Commands
 
 git add . -- adds all changed files to the staging area
+git commit -m -- commits with a given message
